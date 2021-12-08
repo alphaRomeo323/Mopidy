@@ -1,0 +1,10 @@
+Mopidy-YouTube
+Mopidy-SoundCloud
+Mopidy-YTMusic
+Mopidy-Iris
+Mopidy-MPD
+Mopidy-Scrobbler
+Mopidy-MPRIS
+Mopidy-Podcast
+Mopidy-Podcast-iTunes
+Mopidy-Bandcamp
