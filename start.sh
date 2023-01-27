@@ -6,6 +6,9 @@
 # echo -e "[local]\n  media_dir=/music" > ~/.config/mopidy/mopidy.conf
 # mopidy local scan
 
+echo "test"
+ls -l /music
+
 echo "Starting snapserver and mopidy..."
 
 snapserver &
