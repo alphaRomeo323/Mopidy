@@ -2,3 +2,4 @@ Mopidy-SoundCloud
 Mopidy-Iris
 Mopidy-MPD
 Mopidy-Local
+Mopidy-Youtube
