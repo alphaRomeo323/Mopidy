@@ -3,7 +3,7 @@
 echo "Scanning local files"
 mkdir -p ~/.config/mopidy
 echo -e "[local]\n  media_dir=/music" > ~/.config/mopidy/mopidy.conf
-mopidy local scan
+sudo mopidy local scan
 
 echo "Starting snapserver and mopidy..."
 
